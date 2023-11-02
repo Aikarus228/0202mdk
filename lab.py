@@ -1,6 +1,5 @@
-a = 1
-b = 3
-if a > b:
-    print('Hello World')
-else:
+a = 15
+if a > 10:
     print('Goodbye World')
+else:
+    print('Hello World')
